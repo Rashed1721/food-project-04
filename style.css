@@ -1,22 +1,4 @@
 
-.navbar{
-    background-color: #ebe7e7;  
-}
-.navbar ul{
-overflow: auto;
-}
-.navbar li{
-margin: 10px 55px;
-float: left;
- list-style: none; 
-}
-.navbar  a{
-color: rgb(115, 83, 83);
-padding: 3px 3px;
-text-decoration: none;
-font-size: 20px;
-}
-
 .container{
     display: flex;
 }
